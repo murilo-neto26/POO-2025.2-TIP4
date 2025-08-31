@@ -1,4 +1,4 @@
-# Exercícios resolvidos das questões 1 a 10 do capítulo 3
+# Exercícios resolvidos de 1 a 10 do capítulo 3 do livro Fundamentos da Programação de Computadores
 ##  1 | Faça um programa que receba quatro números inteiros, calcule e mostre a soma desses números.
 ##  2 | Faça um programa que receba três notas, calcule e mostre a média aritmética.
 ##  3 | Faça um programa que receba três notas e seus respectivos pesos, calcule e mostre a média ponderada.
@@ -11,7 +11,7 @@
 ## 10 | Faça um programa que calcule e mostre a área de um círculo. Sabe-se que: Área = p * R2
 
 
-# Questões de 1 a 5 dos exercícios propostos do capítulo 3 do livro Fundamentos da Programação de Computadores
+# Exercícios propostos de 1 a 5 do capítulo 3 do livro Fundamentos da Programação de Computadores
 
 ## 1 | Faça um programa que receba dois números, calcule e mostre a subtração do primeiro número pelo segundo.
 ## 2 | Faça um programa que receba três números, calcule e mostre a multiplicação desses números.
