@@ -14,11 +14,12 @@ public class Principal {
 		n2 = sc.nextDouble();
 		
 		if(n1 > n2) {
-			System.out.println("O maior número é: " + n1);
+			System.out.println("O menor número é: " + n2);
 		}
 		
 		else if(n2 > n1) {
-			System.out.println("O maior número é: " + n2);		
+			System.out.println("O menor número é: " + n1);		
 		}
 	}
+
 }
