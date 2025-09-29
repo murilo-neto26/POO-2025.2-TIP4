@@ -10,24 +10,6 @@
 ##  9 | Faça um programa que calcule e mostre a área de um triângulo. Sabe-se que: Área = (base * altura)/2.
 ## 10 | Faça um programa que calcule e mostre a área de um círculo. Sabe-se que: Área = p * R2.
 
-##  3 |
-##  4 |
-##  5 |
-##  6 |
-##  7 |
-##  8 |
-##  9 |
-## 10 |
-
-##  3 |
-##  4 |
-##  5 |
-##  6 |
-##  7 |
-##  8 |
-##  9 |
-## 10 |
-
 # Exercícios propostos de 1 a 5 do capítulo 4 do livro Fundamentos da Programação de Computadores
 ## 1 | Faça um programa que receba quatro notas de um aluno, calcule e mostre a média aritmética das notas e a mensagem de aprovado ou reprovado, considerando para aprovação média 7.
 ## 2 | Faça um programa que receba duas notas, calcule e mostre a média aritmética e a mensagem que se encontra na tabela a seguir.
