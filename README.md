@@ -10,7 +10,7 @@ Este repositório tem como objetivo principal armazenar e documentar o desenvolv
 | ----------------------------- | -------------- | -------------------------------------------------- |
 | Murilo Silva Rodrigues        | 20241321000019 | [@murilo-neto26](https://github.com/murilo-neto26) |
 | Maria Jardiele Silva de Souza | 20241321000015 | [@jardiele22](https://github.com/jardiele22)       |
-| Francisco Erik Araújo Barbosa | 20241321000032 | [@Erik13639](https://github.com/@erik13639)        |
+| Francisco Erik Araújo Barbosa | 20241321000032 | [@Erik13639](https://github.com/Erik13639)         |
 
 
 ## Estrutura do Repositório
